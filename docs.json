@@ -15,7 +15,7 @@
         "groups": [
           {
             "group": "Getting Started",
-            "pages": ["index", "quickstart", "development"]
+            "pages": ["en/index", "en/quickstart", "en/development"]
           }
         ]
       },
