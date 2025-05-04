@@ -5,6 +5,9 @@
   "background": {
     "decoration": "gradient"
   },
+  "icons": {
+    "library": "lucide"
+  },
   "colors": {
     "primary": "#16A34A",
     "light": "#07C983",
