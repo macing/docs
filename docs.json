@@ -12,6 +12,7 @@
     "dropdowns": [
       {
         "dropdown": "Guides",
+        "icon": "languages",
         "groups": [
           {
             "group": "Get Started",
@@ -39,6 +40,7 @@
         "groups": [
           {
             "group": "API Documentation",
+            "icon": "languages",
             "pages": [
               "api-reference/introduction"
             ]
@@ -56,6 +58,7 @@
       },
       {
         "dropdown": "Changelog",
+        "icon": "languages",
         "groups": [
           {
             "group": "Changelog",
