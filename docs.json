@@ -43,6 +43,7 @@
       },
       {
         "dropdown": "API Reference",
+        "icon": "languages",
         "groups": [
           {
             "group": "API Documentation",
