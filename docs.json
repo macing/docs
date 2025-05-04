@@ -18,7 +18,7 @@
     "dropdowns": [
       {
         "dropdown": "Guides",
-        "icon": "language",
+        "icon": "languages",
         "groups": [
           {
             "group": "Get Started",
