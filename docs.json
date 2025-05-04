@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "background": {
-    "decoration": "grid"
+    "decoration": "windows"
   },
   "icons": {
     "library": "lucide"
