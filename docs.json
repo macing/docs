@@ -17,7 +17,7 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "Guides",
+        "dropdown": "English",
         "icon": "languages",
         "groups": [
           {
@@ -64,7 +64,7 @@
         ]
       },
       {
-        "dropdown": "Changelog",
+        "dropdown": "🇨🇳 中文",
         "icon": "icon-languages",
         "groups": [
           {
