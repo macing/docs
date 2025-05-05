@@ -16,9 +16,9 @@
   "favicon": "/favicon.svg",
   "navigation": {
     
-    "languages": [
+    "dropdowns": [
       {
-        "groups": "Guides",
+        "dropdown": "Guides",
         "icon": "languages",
         "groups": [
           {
