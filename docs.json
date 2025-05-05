@@ -13,7 +13,7 @@
     "light": "#378FEE",
     "dark": "#0164D0"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "navigation": {
     "dropdowns": [
       {
@@ -78,8 +78,8 @@
     ]
   },
   "logo": {
-    "light": "/logo/1Capture_Logo.png",
-    "dark": "/logo/1Capture_Logo.png"
+    "light": "/logo/light.png",
+    "dark": "/logo/dark.png"
   },
   "navbar": {
     "links": [
@@ -87,12 +87,7 @@
         "label": "Support",
         "href": "mailto:hi@mintlify.com"
       }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
+    ]
   },
   "footer": {
     "socials": {
