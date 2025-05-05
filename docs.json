@@ -15,9 +15,10 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "dropdowns": [
+    
+    "languages": [
       {
-        "dropdown": "Guides",
+        "groups": "Guides",
         "icon": "languages",
         "groups": [
           {
@@ -40,42 +41,7 @@
             ]
           }
         ]
-      },
-      {
-        "dropdown": "API Reference",
-        "icon": "languages",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "icon": "languages",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      },
-      {
-        "dropdown": "Changelog",
-        "icon": "icon-languages",
-        "groups": [
-          {
-            "group": "Changelog",
-            "pages": [
-              "changelog/changelog"
-            ]
-          }
-        ]
-      }
-    ]
+      
   },
   "logo": {
     "light": "/logo/1Capture_Logo.png",
