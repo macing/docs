@@ -35,6 +35,7 @@
             "pages": [
               "cn/tools/remark",
               "cn/tools/pin-image",
+              "cn/tools/counter",
               "cn/tools/color-picker",
               "cn/tools/scrolling-capture",
               "cn/tools/background",
