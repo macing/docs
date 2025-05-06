@@ -5,9 +5,6 @@
   "background": {
     "decoration": "grid"
   },
-  "appearance": {
-    "default": "system"
-  },
   "icons": {
     "library": "lucide"
   },
