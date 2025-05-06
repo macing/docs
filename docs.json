@@ -17,60 +17,25 @@
   "navigation": {
     "dropdowns": [
       {
-        "dropdown": "English",
+        "dropdown": "简体中文",
         "icon": "languages",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "基本帮助",
             "pages": [
-              "index",
-              "quickstart",
-              "development"
+              "cn/basic/start",
+              "cn/basic/quicktips",
+              "cn/basic/local-image",
+              "cn/basic/pro-features",
+              "cn/basic/support"
             ]
           },
           {
-            "group": "Essentials",
+            "group": "标注工具",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
-            ]
-          }
-        ]
-      },
-      {
-        "dropdown": "API Reference",
-        "icon": "languages",
-        "groups": [
-          {
-            "group": "API Documentation",
-            "icon": "languages",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint Examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      },
-      {
-        "dropdown": "🇨🇳 中文",
-        "icon": "icon-languages",
-        "groups": [
-          {
-            "group": "Changelog",
-            "pages": [
-              "changelog/changelog"
+              "cn/tools/remark",
+              "cn/tools/pin-image",
+              "cn/tools/color-picker"
             ]
           }
         ]
