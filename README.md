@@ -1,1 +1,1 @@
-# 1Capture Docs
+# Docs
