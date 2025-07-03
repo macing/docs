@@ -44,7 +44,37 @@
             ]
           }
         ]
+      },
+      {
+        "dropdown": "繁體中文",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "基本幫助",
+            "pages": [
+              "tc/basic/start",
+              "tc/basic/quicktips",
+              "tc/basic/local-images",
+              "tc/basic/pro-features",
+              "tc/basic/support"
+            ]
+          },
+          {
+            "group": "标注工具",
+            "pages": [
+              "tc/tools/remark",
+              "tc/tools/pin-image",
+              "tc/tools/counter",
+              "tc/tools/color-picker",
+              "tc/tools/scrolling-capture",
+              "tc/tools/background",
+              "tc/tools/arrow",
+              "tc/tools/watermark"
+            ]
+          }
+        ]
       }
+
     ] 
   },
   "logo": {
