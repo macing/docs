@@ -42,6 +42,12 @@
               "cn/tools/arrow",
               "cn/tools/watermark"
             ]
+          },
+          {
+            "group": "更新日志",
+            "pages": [
+              "cn/changelog/latest"
+            ]
           }
         ]
       },
