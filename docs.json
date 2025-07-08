@@ -93,24 +93,24 @@
           {
             "group": "基本幫助",
             "pages": [
-              "tc/basic/start",
-              "tc/basic/quicktips",
-              "tc/basic/local-images",
-              "tc/basic/pro-features",
-              "tc/basic/support"
+              "tw/basic/start",
+              "tw/basic/quicktips",
+              "tw/basic/local-images",
+              "tw/basic/pro-features",
+              "tw/basic/support"
             ]
           },
           {
             "group": "标注工具",
             "pages": [
-              "tc/tools/comment",
-              "tc/tools/pin-image",
-              "tc/tools/counter",
-              "tc/tools/color-picker",
-              "tc/tools/scrolling-capture",
-              "tc/tools/background",
-              "tc/tools/arrow",
-              "tc/tools/watermark"
+              "tw/tools/comment",
+              "tw/tools/pin-image",
+              "tw/tools/counter",
+              "tw/tools/color-picker",
+              "tw/tools/scrolling-capture",
+              "tw/tools/background",
+              "tw/tools/arrow",
+              "tw/tools/watermark"
             ]
           }
         ]
