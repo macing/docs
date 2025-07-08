@@ -24,7 +24,7 @@
             "group": "Basic",
             "pages": [
               "en/basic/start",
-              "en/basic/quicktips",
+              "en/basic/advanced-tips",
               "en/basic/local-images",
               "en/basic/pro-features",
               "en/basic/support"
@@ -59,7 +59,7 @@
             "group": "基本帮助",
             "pages": [
               "cn/basic/start",
-              "cn/basic/quicktips",
+              "cn/basic/advanced-tips",
               "cn/basic/local-images",
               "cn/basic/pro-features",
               "cn/basic/support"
@@ -94,7 +94,7 @@
             "group": "基本幫助",
             "pages": [
               "tw/basic/start",
-              "tw/basic/quicktips",
+              "tw/basic/advanced-tips",
               "tw/basic/local-images",
               "tw/basic/pro-features",
               "tw/basic/support"
