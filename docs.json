@@ -260,8 +260,672 @@
             ]
           }
         ]
+      },
+      {
+        "dropdown": "Français",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Aide de base",
+            "pages": [
+              "fr/basic/start",
+              "fr/basic/advanced-tips",
+              "fr/basic/local-images",
+              "fr/basic/pro-features",
+              "fr/basic/support"
+            ]
+          },
+          {
+            "group": "Annotation Tools",
+            "pages": [
+              "fr/tools/comment",
+              "fr/tools/pin-image",
+              "fr/tools/counter",
+              "fr/tools/color-picker",
+              "fr/tools/scrolling-capture",
+              "fr/tools/background",
+              "fr/tools/arrow",
+              "fr/tools/watermark"
+            ]
+          },
+          {
+            "group": "Journal des modifications",
+            "pages": [
+              "fr/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Русский",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Базовая помощь",
+            "pages": [
+              "ru/basic/start",
+              "ru/basic/advanced-tips",
+              "ru/basic/local-images",
+              "ru/basic/pro-features",
+              "ru/basic/support"
+            ]
+          },
+          {
+            "group": "Инструменты аннотаций",
+            "pages": [
+              "ru/tools/comment",
+              "ru/tools/pin-image",
+              "ru/tools/counter",
+              "ru/tools/color-picker",
+              "ru/tools/scrolling-capture",
+              "ru/tools/background",
+              "ru/tools/arrow",
+              "ru/tools/watermark"
+            ]
+          },
+          {
+            "group": "Журнал изменений",
+            "pages": [
+              "ru/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Українська",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Базова довідка",
+            "pages": [
+              "uk/basic/start",
+              "uk/basic/advanced-tips",
+              "uk/basic/local-images",
+              "uk/basic/pro-features",
+              "uk/basic/support"
+            ]
+          },
+          {
+            "group": "Інструменти для анотацій",
+            "pages": [
+              "uk/tools/comment",
+              "uk/tools/pin-image",
+              "uk/tools/counter",
+              "uk/tools/color-picker",
+              "uk/tools/scrolling-capture",
+              "uk/tools/background",
+              "uk/tools/arrow",
+              "uk/tools/watermark"
+            ]
+          },
+          {
+            "group": "Список змін",
+            "pages": [
+              "uk/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Italiano",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Aiuto di base",
+            "pages": [
+              "it/basic/start",
+              "it/basic/advanced-tips",
+              "it/basic/local-images",
+              "it/basic/pro-features",
+              "it/basic/support"
+            ]
+          },
+          {
+            "group": "Strumenti di annotazione",
+            "pages": [
+              "it/tools/comment",
+              "it/tools/pin-image",
+              "it/tools/counter",
+              "it/tools/color-picker",
+              "it/tools/scrolling-capture",
+              "it/tools/background",
+              "it/tools/arrow",
+              "it/tools/watermark"
+            ]
+          },
+          {
+            "group": "Registro delle modifiche",
+            "pages": [
+              "it/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "हिन्दी",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "बुनियादी सहायता",
+            "pages": [
+              "hi/basic/start",
+              "hi/basic/advanced-tips",
+              "hi/basic/local-images",
+              "hi/basic/pro-features",
+              "hi/basic/support"
+            ]
+          },
+          {
+            "group": "एनोटेशन उपकरण",
+            "pages": [
+              "hi/tools/comment",
+              "hi/tools/pin-image",
+              "hi/tools/counter",
+              "hi/tools/color-picker",
+              "hi/tools/scrolling-capture",
+              "hi/tools/background",
+              "hi/tools/arrow",
+              "hi/tools/watermark"
+            ]
+          },
+          {
+            "group": "लॉग बदलें",
+            "pages": [
+              "hi/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Dansk",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Grundlæggende hjælp",
+            "pages": [
+              "da/basic/start",
+              "da/basic/advanced-tips",
+              "da/basic/local-images",
+              "da/basic/pro-features",
+              "da/basic/support"
+            ]
+          },
+          {
+            "group": "Annotationsværktøjer",
+            "pages": [
+              "da/tools/comment",
+              "da/tools/pin-image",
+              "da/tools/counter",
+              "da/tools/color-picker",
+              "da/tools/scrolling-capture",
+              "da/tools/background",
+              "da/tools/arrow",
+              "da/tools/watermark"
+            ]
+          },
+          {
+            "group": "Ændringslog",
+            "pages": [
+              "da/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Ελληνική",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "βασική βοήθεια",
+            "pages": [
+              "el/basic/start",
+              "el/basic/advanced-tips",
+              "el/basic/local-images",
+              "el/basic/pro-features",
+              "el/basic/support"
+            ]
+          },
+          {
+            "group": "Εργαλεία σχολιασμού",
+            "pages": [
+              "el/tools/comment",
+              "el/tools/pin-image",
+              "el/tools/counter",
+              "el/tools/color-picker",
+              "el/tools/scrolling-capture",
+              "el/tools/background",
+              "el/tools/arrow",
+              "el/tools/watermark"
+            ]
+          },
+          {
+            "group": "Καταγραφή αλλαγών",
+            "pages": [
+              "el/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Suomalainen",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Perusapu",
+            "pages": [
+              "fi/basic/start",
+              "fi/basic/advanced-tips",
+              "fi/basic/local-images",
+              "fi/basic/pro-features",
+              "fi/basic/support"
+            ]
+          },
+          {
+            "group": "Merkintätyökalut",
+            "pages": [
+              "fi/tools/comment",
+              "fi/tools/pin-image",
+              "fi/tools/counter",
+              "fi/tools/color-picker",
+              "fi/tools/scrolling-capture",
+              "fi/tools/background",
+              "fi/tools/arrow",
+              "fi/tools/watermark"
+            ]
+          },
+          {
+            "group": "Muutosloki",
+            "pages": [
+              "fi/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Magyar",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Alapvető segítség",
+            "pages": [
+              "hu/basic/start",
+              "hu/basic/advanced-tips",
+              "hu/basic/local-images",
+              "hu/basic/pro-features",
+              "hu/basic/support"
+            ]
+          },
+          {
+            "group": "Jegyzetkészítő eszközök",
+            "pages": [
+              "hu/tools/comment",
+              "hu/tools/pin-image",
+              "hu/tools/counter",
+              "hu/tools/color-picker",
+              "hu/tools/scrolling-capture",
+              "hu/tools/background",
+              "hu/tools/arrow",
+              "hu/tools/watermark"
+            ]
+          },
+          {
+            "group": "Változásnapló",
+            "pages": [
+              "hu/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Indonesia",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Bantuan Dasar",
+            "pages": [
+              "id/basic/start",
+              "id/basic/advanced-tips",
+              "id/basic/local-images",
+              "id/basic/pro-features",
+              "id/basic/support"
+            ]
+          },
+          {
+            "group": "Alat Anotasi",
+            "pages": [
+              "id/tools/comment",
+              "id/tools/pin-image",
+              "id/tools/counter",
+              "id/tools/color-picker",
+              "id/tools/scrolling-capture",
+              "id/tools/background",
+              "id/tools/arrow",
+              "id/tools/watermark"
+            ]
+          },
+          {
+            "group": "Catatan perubahan",
+            "pages": [
+              "id/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Melayu",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Bantuan Asas",
+            "pages": [
+              "ms/basic/start",
+              "ms/basic/advanced-tips",
+              "ms/basic/local-images",
+              "ms/basic/pro-features",
+              "ms/basic/support"
+            ]
+          },
+          {
+            "group": "Alat Anotasi",
+            "pages": [
+              "ms/tools/comment",
+              "ms/tools/pin-image",
+              "ms/tools/counter",
+              "ms/tools/color-picker",
+              "ms/tools/scrolling-capture",
+              "ms/tools/background",
+              "ms/tools/arrow",
+              "ms/tools/watermark"
+            ]
+          },
+          {
+            "group": "Log perubahan",
+            "pages": [
+              "ms/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Nederlands",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Basishulp",
+            "pages": [
+              "nl/basic/start",
+              "nl/basic/advanced-tips",
+              "nl/basic/local-images",
+              "nl/basic/pro-features",
+              "nl/basic/support"
+            ]
+          },
+          {
+            "group": "Annotatiehulpmiddelen",
+            "pages": [
+              "nl/tools/comment",
+              "nl/tools/pin-image",
+              "nl/tools/counter",
+              "nl/tools/color-picker",
+              "nl/tools/scrolling-capture",
+              "nl/tools/background",
+              "nl/tools/arrow",
+              "nl/tools/watermark"
+            ]
+          },
+          {
+            "group": "Wijzigingslogboek",
+            "pages": [
+              "nl/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Norsk",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Grunnleggende hjelp",
+            "pages": [
+              "no/basic/start",
+              "no/basic/advanced-tips",
+              "no/basic/local-images",
+              "no/basic/pro-features",
+              "no/basic/support"
+            ]
+          },
+          {
+            "group": "Annoteringsverktøy",
+            "pages": [
+              "no/tools/comment",
+              "no/tools/pin-image",
+              "no/tools/counter",
+              "no/tools/color-picker",
+              "no/tools/scrolling-capture",
+              "no/tools/background",
+              "no/tools/arrow",
+              "no/tools/watermark"
+            ]
+          },
+          {
+            "group": "Endringslogg",
+            "pages": [
+              "no/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Polski",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Podstawowa pomoc",
+            "pages": [
+              "pl/basic/start",
+              "pl/basic/advanced-tips",
+              "pl/basic/local-images",
+              "pl/basic/pro-features",
+              "pl/basic/support"
+            ]
+          },
+          {
+            "group": "Narzędzia adnotacji",
+            "pages": [
+              "pl/tools/comment",
+              "pl/tools/pin-image",
+              "pl/tools/counter",
+              "pl/tools/color-picker",
+              "pl/tools/scrolling-capture",
+              "pl/tools/background",
+              "pl/tools/arrow",
+              "pl/tools/watermark"
+            ]
+          },
+          {
+            "group": "Dziennik zmian",
+            "pages": [
+              "pl/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Português",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Ajuda básica",
+            "pages": [
+              "pt/basic/start",
+              "pt/basic/advanced-tips",
+              "pt/basic/local-images",
+              "pt/basic/pro-features",
+              "pt/basic/support"
+            ]
+          },
+          {
+            "group": "Ferramentas de anotação",
+            "pages": [
+              "pt/tools/comment",
+              "pt/tools/pin-image",
+              "pt/tools/counter",
+              "pt/tools/color-picker",
+              "pt/tools/scrolling-capture",
+              "pt/tools/background",
+              "pt/tools/arrow",
+              "pt/tools/watermark"
+            ]
+          },
+          {
+            "group": "Registro de alterações",
+            "pages": [
+              "pt/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Svenska",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Grundläggande hjälp",
+            "pages": [
+              "sv/basic/start",
+              "sv/basic/advanced-tips",
+              "sv/basic/local-images",
+              "sv/basic/pro-features",
+              "sv/basic/support"
+            ]
+          },
+          {
+            "group": "Annoteringsverktyg",
+            "pages": [
+              "sv/tools/comment",
+              "sv/tools/pin-image",
+              "sv/tools/counter",
+              "sv/tools/color-picker",
+              "sv/tools/scrolling-capture",
+              "sv/tools/background",
+              "sv/tools/arrow",
+              "sv/tools/watermark"
+            ]
+          },
+          {
+            "group": "Ändringslogg",
+            "pages": [
+              "sv/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "แบบไทย",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "ความช่วยเหลือพื้นฐาน",
+            "pages": [
+              "th/basic/start",
+              "th/basic/advanced-tips",
+              "th/basic/local-images",
+              "th/basic/pro-features",
+              "th/basic/support"
+            ]
+          },
+          {
+            "group": "เครื่องมือคำอธิบายประกอบ",
+            "pages": [
+              "th/tools/comment",
+              "th/tools/pin-image",
+              "th/tools/counter",
+              "th/tools/color-picker",
+              "th/tools/scrolling-capture",
+              "th/tools/background",
+              "th/tools/arrow",
+              "th/tools/watermark"
+            ]
+          },
+          {
+            "group": "บันทึกการเปลี่ยนแปลง",
+            "pages": [
+              "th/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Türkçe",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Temel Yardım",
+            "pages": [
+              "tr/basic/start",
+              "tr/basic/advanced-tips",
+              "tr/basic/local-images",
+              "tr/basic/pro-features",
+              "tr/basic/support"
+            ]
+          },
+          {
+            "group": "Açıklama Araçları",
+            "pages": [
+              "tr/tools/comment",
+              "tr/tools/pin-image",
+              "tr/tools/counter",
+              "tr/tools/color-picker",
+              "tr/tools/scrolling-capture",
+              "tr/tools/background",
+              "tr/tools/arrow",
+              "tr/tools/watermark"
+            ]
+          },
+          {
+            "group": "Değişiklik Günlüğü",
+            "pages": [
+              "tr/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Tiếng Việt",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Trợ giúp cơ bản",
+            "pages": [
+              "vi/basic/start",
+              "vi/basic/advanced-tips",
+              "vi/basic/local-images",
+              "vi/basic/pro-features",
+              "vi/basic/support"
+            ]
+          },
+          {
+            "group": "Công cụ chú thích",
+            "pages": [
+              "vi/tools/comment",
+              "vi/tools/pin-image",
+              "vi/tools/counter",
+              "vi/tools/color-picker",
+              "vi/tools/scrolling-capture",
+              "vi/tools/background",
+              "vi/tools/arrow",
+              "vi/tools/watermark"
+            ]
+          },
+          {
+            "group": "Nhật ký thay đổi",
+            "pages": [
+              "vi/changelog/latest"
+            ]
+          }
+        ]
       }
-
     ] 
   },
   "logo": {
