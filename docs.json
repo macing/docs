@@ -80,6 +80,12 @@
           },
           {
             "group": "更新日志",
+            "icon": "languages",
+            "pages": [
+              "cn/changelog/latest"
+            ]
+          },
+          {
             "pages": [
               "cn/changelog/latest"
             ]
