@@ -52,6 +52,76 @@
         ]
       },
       {
+        "dropdown": "日本語",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "ベーシック",
+            "pages": [
+              "ja/basic/start",
+              "ja/basic/advanced-tips",
+              "ja/basic/local-images",
+              "ja/basic/pro-features",
+              "ja/basic/support"
+            ]
+          },
+          {
+            "group": "注釈ツール",
+            "pages": [
+              "ja/tools/comment",
+              "ja/tools/pin-image",
+              "ja/tools/counter",
+              "ja/tools/color-picker",
+              "ja/tools/scrolling-capture",
+              "ja/tools/background",
+              "ja/tools/arrow",
+              "ja/tools/watermark"
+            ]
+          },
+          {
+            "group": "更新履歴",
+            "pages": [
+              "ja/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Español",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Ayuda básica",
+            "pages": [
+              "es/basic/start",
+              "es/basic/advanced-tips",
+              "es/basic/local-images",
+              "es/basic/pro-features",
+              "es/basic/support"
+            ]
+          },
+          {
+            "group": "Herramientas de anotación",
+            "pages": [
+              "es/tools/comment",
+              "es/tools/pin-image",
+              "es/tools/counter",
+              "es/tools/color-picker",
+              "es/tools/scrolling-capture",
+              "es/tools/background",
+              "es/tools/arrow",
+              "es/tools/watermark"
+            ]
+          },
+          {
+            "group": "Registro de cambios",
+            "pages": [
+              "es/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
         "dropdown": "简体中文",
         "icon": "languages",
         "groups": [
@@ -80,7 +150,6 @@
           },
           {
             "group": "更新日志",
-            "icon": "languages",
             "pages": [
               "cn/changelog/latest"
             ]
@@ -102,7 +171,7 @@
             ]
           },
           {
-            "group": "标注工具",
+            "group": "標注工具",
             "pages": [
               "tw/tools/comment",
               "tw/tools/pin-image",
@@ -112,6 +181,82 @@
               "tw/tools/background",
               "tw/tools/arrow",
               "tw/tools/watermark"
+            ]
+          },
+          {
+            "group": "更新日誌",
+            "pages": [
+              "tw/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "한국어",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "기본 도움말",
+            "pages": [
+              "ko/basic/start",
+              "ko/basic/advanced-tips",
+              "ko/basic/local-images",
+              "ko/basic/pro-features",
+              "ko/basic/support"
+            ]
+          },
+          {
+            "group": "주석 도구",
+            "pages": [
+              "ko/tools/comment",
+              "ko/tools/pin-image",
+              "ko/tools/counter",
+              "ko/tools/color-picker",
+              "ko/tools/scrolling-capture",
+              "ko/tools/background",
+              "ko/tools/arrow",
+              "ko/tools/watermark"
+            ]
+          },
+          {
+            "group": "변경 로그",
+            "pages": [
+              "ko/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "dropdown": "Deutsch",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Grundlegende Hilfe",
+            "pages": [
+              "de/basic/start",
+              "de/basic/advanced-tips",
+              "de/basic/local-images",
+              "de/basic/pro-features",
+              "de/basic/support"
+            ]
+          },
+          {
+            "group": "Anmerkungswerkzeuge",
+            "pages": [
+              "de/tools/comment",
+              "de/tools/pin-image",
+              "de/tools/counter",
+              "de/tools/color-picker",
+              "de/tools/scrolling-capture",
+              "de/tools/background",
+              "de/tools/arrow",
+              "de/tools/watermark"
+            ]
+          },
+          {
+            "group": "Änderungsprotokoll",
+            "pages": [
+              "de/changelog/latest"
             ]
           }
         ]
