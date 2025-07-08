@@ -33,7 +33,7 @@
           {
             "group": "Annotation Tools",
             "pages": [
-              "en/tools/remark",
+              "en/tools/comment",
               "en/tools/pin-image",
               "en/tools/counter",
               "en/tools/color-picker",
@@ -68,7 +68,7 @@
           {
             "group": "标注工具",
             "pages": [
-              "cn/tools/remark",
+              "cn/tools/comment",
               "cn/tools/pin-image",
               "cn/tools/counter",
               "cn/tools/color-picker",
@@ -103,7 +103,7 @@
           {
             "group": "标注工具",
             "pages": [
-              "tc/tools/remark",
+              "tc/tools/comment",
               "tc/tools/pin-image",
               "tc/tools/counter",
               "tc/tools/color-picker",
