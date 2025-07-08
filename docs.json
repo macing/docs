@@ -17,6 +17,41 @@
   "navigation": {
     "dropdowns": [
       {
+        "dropdown": "English",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Basic",
+            "pages": [
+              "en/basic/start",
+              "en/basic/quicktips",
+              "en/basic/local-images",
+              "en/basic/pro-features",
+              "en/basic/support"
+            ]
+          },
+          {
+            "group": "Annotation Tools",
+            "pages": [
+              "en/tools/remark",
+              "en/tools/pin-image",
+              "en/tools/counter",
+              "en/tools/color-picker",
+              "en/tools/scrolling-capture",
+              "en/tools/background",
+              "en/tools/arrow",
+              "en/tools/watermark"
+            ]
+          },
+          {
+            "group": "Changelog",
+            "pages": [
+              "en/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
         "dropdown": "简体中文",
         "icon": "languages",
         "groups": [
