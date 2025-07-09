@@ -957,14 +957,6 @@
     "light": "/logo_light.png",
     "dark": "/logo_dark.png"
   },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:support@1capture.com"
-      }
-    ]
-  },
   "footer": {
     "socials": {
       "x": "https://x.com/1capture_com"
