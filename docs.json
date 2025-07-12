@@ -34,7 +34,7 @@
           {
             "group": "Annotation Tools",
             "pages": [
-              "en/tools/comment",
+              "en/tools/remark",
               "en/tools/pin-image",
               "en/tools/counter",
               "en/tools/color-picker",
@@ -69,7 +69,7 @@
           {
             "group": "注釈ツール",
             "pages": [
-              "ja/tools/comment",
+              "ja/tools/remark",
               "ja/tools/pin-image",
               "ja/tools/counter",
               "ja/tools/color-picker",
@@ -104,7 +104,7 @@
           {
             "group": "Herramientas de anotación",
             "pages": [
-              "es/tools/comment",
+              "es/tools/remark",
               "es/tools/pin-image",
               "es/tools/counter",
               "es/tools/color-picker",
@@ -139,7 +139,7 @@
           {
             "group": "标注工具",
             "pages": [
-              "cn/tools/comment",
+              "cn/tools/remark",
               "cn/tools/pin-image",
               "cn/tools/counter",
               "cn/tools/color-picker",
@@ -174,7 +174,7 @@
           {
             "group": "標注工具",
             "pages": [
-              "tw/tools/comment",
+              "tw/tools/remark",
               "tw/tools/pin-image",
               "tw/tools/counter",
               "tw/tools/color-picker",
@@ -209,7 +209,7 @@
           {
             "group": "주석 도구",
             "pages": [
-              "ko/tools/comment",
+              "ko/tools/remark",
               "ko/tools/pin-image",
               "ko/tools/counter",
               "ko/tools/color-picker",
@@ -244,7 +244,7 @@
           {
             "group": "Anmerkungswerkzeuge",
             "pages": [
-              "de/tools/comment",
+              "de/tools/remark",
               "de/tools/pin-image",
               "de/tools/counter",
               "de/tools/color-picker",
@@ -279,7 +279,7 @@
           {
             "group": "Annotation Tools",
             "pages": [
-              "fr/tools/comment",
+              "fr/tools/remark",
               "fr/tools/pin-image",
               "fr/tools/counter",
               "fr/tools/color-picker",
@@ -314,7 +314,7 @@
           {
             "group": "Инструменты аннотаций",
             "pages": [
-              "ru/tools/comment",
+              "ru/tools/remark",
               "ru/tools/pin-image",
               "ru/tools/counter",
               "ru/tools/color-picker",
@@ -349,7 +349,7 @@
           {
             "group": "Інструменти для анотацій",
             "pages": [
-              "uk/tools/comment",
+              "uk/tools/remark",
               "uk/tools/pin-image",
               "uk/tools/counter",
               "uk/tools/color-picker",
@@ -384,7 +384,7 @@
           {
             "group": "Strumenti di annotazione",
             "pages": [
-              "it/tools/comment",
+              "it/tools/remark",
               "it/tools/pin-image",
               "it/tools/counter",
               "it/tools/color-picker",
@@ -419,7 +419,7 @@
           {
             "group": "एनोटेशन उपकरण",
             "pages": [
-              "hi/tools/comment",
+              "hi/tools/remark",
               "hi/tools/pin-image",
               "hi/tools/counter",
               "hi/tools/color-picker",
@@ -454,7 +454,7 @@
           {
             "group": "Annotationsværktøjer",
             "pages": [
-              "da/tools/comment",
+              "da/tools/remark",
               "da/tools/pin-image",
               "da/tools/counter",
               "da/tools/color-picker",
@@ -489,7 +489,7 @@
           {
             "group": "Εργαλεία σχολιασμού",
             "pages": [
-              "el/tools/comment",
+              "el/tools/remark",
               "el/tools/pin-image",
               "el/tools/counter",
               "el/tools/color-picker",
@@ -524,7 +524,7 @@
           {
             "group": "Merkintätyökalut",
             "pages": [
-              "fi/tools/comment",
+              "fi/tools/remark",
               "fi/tools/pin-image",
               "fi/tools/counter",
               "fi/tools/color-picker",
@@ -559,7 +559,7 @@
           {
             "group": "Jegyzetkészítő eszközök",
             "pages": [
-              "hu/tools/comment",
+              "hu/tools/remark",
               "hu/tools/pin-image",
               "hu/tools/counter",
               "hu/tools/color-picker",
@@ -594,7 +594,7 @@
           {
             "group": "Alat Anotasi",
             "pages": [
-              "id/tools/comment",
+              "id/tools/remark",
               "id/tools/pin-image",
               "id/tools/counter",
               "id/tools/color-picker",
@@ -629,7 +629,7 @@
           {
             "group": "Alat Anotasi",
             "pages": [
-              "ms/tools/comment",
+              "ms/tools/remark",
               "ms/tools/pin-image",
               "ms/tools/counter",
               "ms/tools/color-picker",
@@ -664,7 +664,7 @@
           {
             "group": "Annotatiehulpmiddelen",
             "pages": [
-              "nl/tools/comment",
+              "nl/tools/remark",
               "nl/tools/pin-image",
               "nl/tools/counter",
               "nl/tools/color-picker",
@@ -699,7 +699,7 @@
           {
             "group": "Annoteringsverktøy",
             "pages": [
-              "no/tools/comment",
+              "no/tools/remark",
               "no/tools/pin-image",
               "no/tools/counter",
               "no/tools/color-picker",
@@ -734,7 +734,7 @@
           {
             "group": "Narzędzia adnotacji",
             "pages": [
-              "pl/tools/comment",
+              "pl/tools/remark",
               "pl/tools/pin-image",
               "pl/tools/counter",
               "pl/tools/color-picker",
@@ -769,7 +769,7 @@
           {
             "group": "Ferramentas de anotação",
             "pages": [
-              "pt/tools/comment",
+              "pt/tools/remark",
               "pt/tools/pin-image",
               "pt/tools/counter",
               "pt/tools/color-picker",
@@ -804,7 +804,7 @@
           {
             "group": "Annoteringsverktyg",
             "pages": [
-              "sv/tools/comment",
+              "sv/tools/remark",
               "sv/tools/pin-image",
               "sv/tools/counter",
               "sv/tools/color-picker",
@@ -839,7 +839,7 @@
           {
             "group": "เครื่องมือคำอธิบายประกอบ",
             "pages": [
-              "th/tools/comment",
+              "th/tools/remark",
               "th/tools/pin-image",
               "th/tools/counter",
               "th/tools/color-picker",
@@ -874,7 +874,7 @@
           {
             "group": "Açıklama Araçları",
             "pages": [
-              "tr/tools/comment",
+              "tr/tools/remark",
               "tr/tools/pin-image",
               "tr/tools/counter",
               "tr/tools/color-picker",
@@ -909,7 +909,7 @@
           {
             "group": "Công cụ chú thích",
             "pages": [
-              "vi/tools/comment",
+              "vi/tools/remark",
               "vi/tools/pin-image",
               "vi/tools/counter",
               "vi/tools/color-picker",
