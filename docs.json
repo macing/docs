@@ -16,9 +16,9 @@
   },
   "favicon": "/favicon.png",
   "navigation": {
-    "dropdowns": [
+    "tabs": [
       {
-        "dropdown": "English",
+        "tab": "English",
         "icon": "languages",
         "groups": [
           {
@@ -53,7 +53,7 @@
         ]
       },
       {
-        "dropdown": "日本語",
+        "tab": "日本語",
         "icon": "languages",
         "groups": [
           {
@@ -88,39 +88,14 @@
         ]
       },
       {
-        "dropdown": "Español",
+        "tab": "Español",
         "icon": "languages",
-        "groups": [
-          {
-            "group": "Ayuda básica",
+        
             "pages": [
-              "es/basic/start",
-              "es/basic/advanced-tips",
-              "es/basic/local-images",
-              "es/basic/pro-features",
-              "es/basic/support"
+              "cn/changelog"
             ]
-          },
-          {
-            "group": "Herramientas de anotación",
-            "pages": [
-              "es/tools/remark",
-              "es/tools/pin-image",
-              "es/tools/counter",
-              "es/tools/color-picker",
-              "es/tools/scrolling-capture",
-              "es/tools/background",
-              "es/tools/arrow",
-              "es/tools/watermark"
-            ]
-          },
-          {
-            "group": "Registro de cambios",
-            "pages": [
-              "es/changelog/latest"
-            ]
-          }
-        ]
+          
+        
       }
     ],
     "languages": [
