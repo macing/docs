@@ -1,341 +1,201 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
-  "name": "1Capture",
-  "description": "1Capture SEO",
-  "background": {
-    "decoration": "grid"
+  "description" : "1Capture SEO",
+  "theme" : "mint",
+  "icons" : {
+    "library" : "lucide"
   },
-  "icons": {
-    "library": "lucide"
-  },
-  "colors": {
-    "primary": "#007AFF",
-    "light": "#378FEE",
-    "dark": "#0164D0"
-  },
-  "favicon": "/favicon.png",
-  "navigation": {
-    "languages": [
+  "navigation" : {
+    "languages" : [
       {
-        "language": "en",
-
-        "tabs": [
-      {
-        "tab": "English",
-        "icon": "languages",
-        "groups": [
+        "tabs" : [
           {
-            "group": "Basic",
-            "pages": [
-              "en/basic/start",
-              "en/basic/advanced-tips",
-              "en/basic/local-images",
-              "en/basic/pro-features",
-              "en/basic/support"
+            "tab" : "Documents",
+            "groups" : [
+              {
+                "group" : "Basic",
+                "pages" : [
+                  "en/basic/start",
+                  "en/basic/advanced-tips",
+                  "en/basic/local-images",
+                  "en/basic/pro-features",
+                  "en/basic/support"
+                ]
+              },
+              {
+                "group" : "Annotation Tools",
+                "pages" : [
+                  "en/tools/remark",
+                  "en/tools/pin-image",
+                  "en/tools/counter",
+                  "en/tools/color-picker",
+                  "en/tools/scrolling-capture",
+                  "en/tools/background",
+                  "en/tools/arrow",
+                  "en/tools/watermark"
+                ]
+              }
             ]
           },
           {
-            "group": "Annotation Tools",
-            "pages": [
-              "en/tools/remark",
-              "en/tools/pin-image",
-              "en/tools/counter",
-              "en/tools/color-picker",
-              "en/tools/scrolling-capture",
-              "en/tools/background",
-              "en/tools/arrow",
-              "en/tools/watermark"
-            ]
-          },
-          {
-            "group": "Changelog",
-            "pages": [
-              "en/changelog/latest"
+            "tab" : "Changelog",
+            "pages" : [
+              "en/changelog"
             ]
           }
-        ]
+        ],
+        "language" : "en"
       },
       {
-        "tab": "日本語",
-        "icon": "languages",
-        "groups": [
+        "tabs" : [
           {
-            "group": "ベーシック",
-            "pages": [
-              "ja/basic/start",
-              "ja/basic/advanced-tips",
-              "ja/basic/local-images",
-              "ja/basic/pro-features",
-              "ja/basic/support"
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "基本帮助",
+                "pages" : [
+                  "cn/basic/start",
+                  "cn/basic/advanced-tips",
+                  "cn/basic/local-images",
+                  "cn/basic/pro-features",
+                  "cn/basic/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
             ]
           },
           {
-            "group": "注釈ツール",
-            "pages": [
-              "ja/tools/remark",
-              "ja/tools/pin-image",
-              "ja/tools/counter",
-              "ja/tools/color-picker",
-              "ja/tools/scrolling-capture",
-              "ja/tools/background",
-              "ja/tools/arrow",
-              "ja/tools/watermark"
-            ]
-          },
-          {
-            "group": "更新履歴",
-            "pages": [
-              "ja/changelog/latest"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Español",
-        "icon": "languages",
-        
-            "pages": [
+            "tab" : "更新日志",
+            "pages" : [
               "cn/changelog"
             ]
-          
-        
-      }
-    ]
+          }
+        ],
+        "language" : "cn"
       },
       {
-        "language": "jp",
-       "tabs": [
-      {
-        "tab": "English",
-        "icon": "languages",
-        "groups": [
+        "tabs" : [
           {
-            "group": "Basic",
-            "pages": [
-              "en/basic/start",
-              "en/basic/advanced-tips",
-              "en/basic/local-images",
-              "en/basic/pro-features",
-              "en/basic/support"
+            "tab" : "文档繁体",
+            "groups" : [
+              {
+                "group" : "基本幫助",
+                "pages" : [
+                  "tw/basic/start",
+                  "tw/basic/advanced-tips",
+                  "tw/basic/local-images",
+                  "tw/basic/pro-features",
+                  "tw/basic/support"
+                ]
+              },
+              {
+                "group" : "標注工具",
+                "pages" : [
+                  "tw/tools/remark",
+                  "tw/tools/pin-image",
+                  "tw/tools/counter",
+                  "tw/tools/color-picker",
+                  "tw/tools/scrolling-capture",
+                  "tw/tools/background",
+                  "tw/tools/arrow",
+                  "tw/tools/watermark"
+                ]
+              }
             ]
           },
           {
-            "group": "Annotation Tools",
-            "pages": [
-              "en/tools/remark",
-              "en/tools/pin-image",
-              "en/tools/counter",
-              "en/tools/color-picker",
-              "en/tools/scrolling-capture",
-              "en/tools/background",
-              "en/tools/arrow",
-              "en/tools/watermark"
-            ]
-          },
-          {
-            "group": "Changelog",
-            "pages": [
-              "en/changelog/latest"
+            "tab" : "更新日志繁体",
+            "pages" : [
+              "tw/changelog"
             ]
           }
-        ]
-      },
-      {
-        "tab": "日本語",
-        "icon": "languages",
-        "groups": [
-          {
-            "group": "ベーシック",
-            "pages": [
-              "ja/basic/start",
-              "ja/basic/advanced-tips",
-              "ja/basic/local-images",
-              "ja/basic/pro-features",
-              "ja/basic/support"
-            ]
-          },
-          {
-            "group": "注釈ツール",
-            "pages": [
-              "ja/tools/remark",
-              "ja/tools/pin-image",
-              "ja/tools/counter",
-              "ja/tools/color-picker",
-              "ja/tools/scrolling-capture",
-              "ja/tools/background",
-              "ja/tools/arrow",
-              "ja/tools/watermark"
-            ]
-          },
-          {
-            "group": "更新履歴",
-            "pages": [
-              "ja/changelog/latest"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Español",
-        "icon": "languages",
-        
-            "pages": [
-              "cn/changelog"
-            ]
-          
-        
+        ],
+        "language" : "zh-Hant"
       }
     ]
-      },
-      {
-        "language": "es",
-        "tabs": [
-      {
-        "tab": "English",
-        "icon": "languages",
-        "groups": [
-          {
-            "group": "Basic",
-            "pages": [
-              "en/basic/start",
-              "en/basic/advanced-tips",
-              "en/basic/local-images",
-              "en/basic/pro-features",
-              "en/basic/support"
-            ]
-          },
-          {
-            "group": "Annotation Tools",
-            "pages": [
-              "en/tools/remark",
-              "en/tools/pin-image",
-              "en/tools/counter",
-              "en/tools/color-picker",
-              "en/tools/scrolling-capture",
-              "en/tools/background",
-              "en/tools/arrow",
-              "en/tools/watermark"
-            ]
-          },
-          {
-            "group": "Changelog",
-            "pages": [
-              "en/changelog/latest"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "日本語",
-        "icon": "languages",
-        "groups": [
-          {
-            "group": "ベーシック",
-            "pages": [
-              "ja/basic/start",
-              "ja/basic/advanced-tips",
-              "ja/basic/local-images",
-              "ja/basic/pro-features",
-              "ja/basic/support"
-            ]
-          },
-          {
-            "group": "注釈ツール",
-            "pages": [
-              "ja/tools/remark",
-              "ja/tools/pin-image",
-              "ja/tools/counter",
-              "ja/tools/color-picker",
-              "ja/tools/scrolling-capture",
-              "ja/tools/background",
-              "ja/tools/arrow",
-              "ja/tools/watermark"
-            ]
-          },
-          {
-            "group": "更新履歴",
-            "pages": [
-              "ja/changelog/latest"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "Español",
-        "icon": "languages",
-        
-            "pages": [
-              "cn/changelog"
-            ]
-          
-        
-      }
-    ]
-      }
-    ]
-    
   },
-  "navbar": {
-    "links": [
+  "footer" : {
+    "socials" : {
+      "x" : "https://x.com/1capture_com"
+    },
+    "links" : [
       {
-        "label": "Support",
-        "href": "mailto:support@1capture.com"
+        "items" : [
+          {
+            "label" : "Customers",
+            "href" : "https://example.com/customers"
+          },
+          {
+            "label" : "Enterprise",
+            "href" : "https://example.com/enterprise"
+          },
+          {
+            "label" : "Request Preview",
+            "href" : "https://example.com/preview"
+          }
+        ],
+        "header" : "Resources"
       },
       {
-        "label": "Links",
-        "href": "mailto:support@1capture.com"
+        "items" : [
+          {
+            "label" : "Careers",
+            "href" : "https://example.com/careers"
+          },
+          {
+            "label" : "Blog",
+            "href" : "https://example.com/blog"
+          },
+          {
+            "label" : "Privacy Policy",
+            "href" : "https://example.com/legal/privacy"
+          }
+        ],
+        "header" : "Company"
+      }
+    ]
+  },
+  "colors" : {
+    "primary" : "#007AFF",
+    "light" : "#378FEE",
+    "dark" : "#0164D0"
+  },
+  "background" : {
+    "decoration" : "grid"
+  },
+  "logo" : {
+    "light" : "/logo_light.png",
+    "dark" : "/logo_dark.png"
+  },
+  "navbar" : {
+    "links" : [
+      {
+        "label" : "Support",
+        "href" : "mailto:support@1capture.com"
+      },
+      {
+        "label" : "Links",
+        "href" : "mailto:support@1capture.com"
       }
     ],
-    "primary": {
-      "type": "button",
-      "label": "button1",
-      "href": "https://mintlify.com/docs"
+    "primary" : {
+      "type" : "button",
+      "label" : "button1",
+      "href" : "https://mintlify.com/docs"
     }
   },
-  "logo": {
-    "light": "/logo_light.png",
-    "dark": "/logo_dark.png"
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/1capture_com"
-    },
-    "links": [
-      {
-        "header": "Resources",
-        "items": [
-          {
-            "label": "Customers",
-            "href": "https://example.com/customers"
-          },
-          {
-            "label": "Enterprise",
-            "href": "https://example.com/enterprise"
-          },
-          {
-            "label": "Request Preview",
-            "href": "https://example.com/preview"
-          }
-        ]
-      },
-      {
-        "header": "Company",
-        "items": [
-          {
-            "label": "Careers",
-            "href": "https://example.com/careers"
-          },
-          {
-            "label": "Blog",
-            "href": "https://example.com/blog"
-          },
-          {
-            "label": "Privacy Policy",
-            "href": "https://example.com/legal/privacy"
-          }
-        ]
-      }
-    ]
-  }
+  "favicon" : "/favicon.png",
+  "$schema" : "https://mintlify.com/docs.json",
+  "name" : "1Capture"
 }
