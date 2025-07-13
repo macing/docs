@@ -7,7 +7,6 @@
   "navigation" : {
     "languages" : [
       {
-        "language" : "en",
         "tabs" : [
           {
             "tab" : "Documents",
@@ -43,7 +42,8 @@
               "en/changelog"
             ]
           }
-        ]
+        ],
+        "language" : "en"
       },
       {
         "tabs" : [
@@ -115,7 +115,7 @@
             ]
           },
           {
-            "tab" : "更新日志繁体",
+            "tab" : "更新繁体",
             "pages" : [
               "tw/changelog"
             ]
@@ -127,9 +127,9 @@
   },
   "footer" : {
     "socials" : {
-      "x" : "https://x.com/1capture_com",
-      "reddit" : "https://reddit.com/r/1capture"
-    },
+      "x" : "https://x.com/1capture_com"
+    }
+  },
   "colors" : {
     "primary" : "#007AFF",
     "light" : "#378FEE",
