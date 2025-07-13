@@ -16,7 +16,11 @@
   },
   "favicon": "/favicon.png",
   "navigation": {
-    "tabs": [
+    "languages": [
+      {
+        "language": "en",
+
+        "tabs": [
       {
         "tab": "English",
         "icon": "languages",
@@ -98,6 +102,179 @@
         
       }
     ]
+      },
+      {
+        "language": "jp",
+       "tabs": [
+      {
+        "tab": "English",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Basic",
+            "pages": [
+              "en/basic/start",
+              "en/basic/advanced-tips",
+              "en/basic/local-images",
+              "en/basic/pro-features",
+              "en/basic/support"
+            ]
+          },
+          {
+            "group": "Annotation Tools",
+            "pages": [
+              "en/tools/remark",
+              "en/tools/pin-image",
+              "en/tools/counter",
+              "en/tools/color-picker",
+              "en/tools/scrolling-capture",
+              "en/tools/background",
+              "en/tools/arrow",
+              "en/tools/watermark"
+            ]
+          },
+          {
+            "group": "Changelog",
+            "pages": [
+              "en/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "日本語",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "ベーシック",
+            "pages": [
+              "ja/basic/start",
+              "ja/basic/advanced-tips",
+              "ja/basic/local-images",
+              "ja/basic/pro-features",
+              "ja/basic/support"
+            ]
+          },
+          {
+            "group": "注釈ツール",
+            "pages": [
+              "ja/tools/remark",
+              "ja/tools/pin-image",
+              "ja/tools/counter",
+              "ja/tools/color-picker",
+              "ja/tools/scrolling-capture",
+              "ja/tools/background",
+              "ja/tools/arrow",
+              "ja/tools/watermark"
+            ]
+          },
+          {
+            "group": "更新履歴",
+            "pages": [
+              "ja/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Español",
+        "icon": "languages",
+        
+            "pages": [
+              "cn/changelog"
+            ]
+          
+        
+      }
+    ]
+      },
+      {
+        "language": "es",
+        "tabs": [
+      {
+        "tab": "English",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "Basic",
+            "pages": [
+              "en/basic/start",
+              "en/basic/advanced-tips",
+              "en/basic/local-images",
+              "en/basic/pro-features",
+              "en/basic/support"
+            ]
+          },
+          {
+            "group": "Annotation Tools",
+            "pages": [
+              "en/tools/remark",
+              "en/tools/pin-image",
+              "en/tools/counter",
+              "en/tools/color-picker",
+              "en/tools/scrolling-capture",
+              "en/tools/background",
+              "en/tools/arrow",
+              "en/tools/watermark"
+            ]
+          },
+          {
+            "group": "Changelog",
+            "pages": [
+              "en/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "日本語",
+        "icon": "languages",
+        "groups": [
+          {
+            "group": "ベーシック",
+            "pages": [
+              "ja/basic/start",
+              "ja/basic/advanced-tips",
+              "ja/basic/local-images",
+              "ja/basic/pro-features",
+              "ja/basic/support"
+            ]
+          },
+          {
+            "group": "注釈ツール",
+            "pages": [
+              "ja/tools/remark",
+              "ja/tools/pin-image",
+              "ja/tools/counter",
+              "ja/tools/color-picker",
+              "ja/tools/scrolling-capture",
+              "ja/tools/background",
+              "ja/tools/arrow",
+              "ja/tools/watermark"
+            ]
+          },
+          {
+            "group": "更新履歴",
+            "pages": [
+              "ja/changelog/latest"
+            ]
+          }
+        ]
+      },
+      {
+        "tab": "Español",
+        "icon": "languages",
+        
+            "pages": [
+              "cn/changelog"
+            ]
+          
+        
+      }
+    ]
+      }
+    ]
+    
   },
   "navbar": {
     "links": [
