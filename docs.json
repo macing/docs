@@ -7,12 +7,13 @@
   "navigation" : {
     "languages" : [
       {
+        "language" : "en",
         "tabs" : [
           {
             "tab" : "Documents",
             "groups" : [
               {
-                "group" : "Basic",
+                "group" : "Quick Start",
                 "pages" : [
                   "en/basic/start",
                   "en/basic/advanced-tips",
@@ -42,8 +43,7 @@
               "en/changelog"
             ]
           }
-        ],
-        "language" : "en"
+        ]
       },
       {
         "tabs" : [
@@ -51,7 +51,7 @@
             "tab" : "帮助文档",
             "groups" : [
               {
-                "group" : "基本帮助",
+                "group" : "快速开始",
                 "pages" : [
                   "cn/basic/start",
                   "cn/basic/advanced-tips",
@@ -127,45 +127,9 @@
   },
   "footer" : {
     "socials" : {
-      "x" : "https://x.com/1capture_com"
+      "x" : "https://x.com/1capture_com",
+      "reddit" : "https://reddit.com/r/1capture"
     },
-    "links" : [
-      {
-        "items" : [
-          {
-            "label" : "Customers",
-            "href" : "https://example.com/customers"
-          },
-          {
-            "label" : "Enterprise",
-            "href" : "https://example.com/enterprise"
-          },
-          {
-            "label" : "Request Preview",
-            "href" : "https://example.com/preview"
-          }
-        ],
-        "header" : "Resources"
-      },
-      {
-        "items" : [
-          {
-            "label" : "Careers",
-            "href" : "https://example.com/careers"
-          },
-          {
-            "label" : "Blog",
-            "href" : "https://example.com/blog"
-          },
-          {
-            "label" : "Privacy Policy",
-            "href" : "https://example.com/legal/privacy"
-          }
-        ],
-        "header" : "Company"
-      }
-    ]
-  },
   "colors" : {
     "primary" : "#007AFF",
     "light" : "#378FEE",
@@ -183,15 +147,11 @@
       {
         "label" : "Support",
         "href" : "mailto:support@1capture.com"
-      },
-      {
-        "label" : "Links",
-        "href" : "mailto:support@1capture.com"
       }
     ],
     "primary" : {
       "type" : "button",
-      "label" : "button1",
+      "label" : "Download",
       "href" : "https://mintlify.com/docs"
     }
   },
