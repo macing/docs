@@ -48,7 +48,7 @@
       {
         "tabs" : [
           {
-            "tab" : "幫助文檔",
+            "tab" : "帮助文档",
             "groups" : [
               {
                 "group" : "快速开始",
@@ -87,7 +87,7 @@
       {
         "tabs" : [
           {
-            "tab" : "文档繁体",
+            "tab" : "幫助文檔",
             "groups" : [
               {
                 "group" : "快速入门",
@@ -115,7 +115,7 @@
             ]
           },
           {
-            "tab" : "更新繁体",
+            "tab" : "更新日誌",
             "pages" : [
               "zh-hant/changelog"
             ]
@@ -127,7 +127,8 @@
   },
   "footer" : {
     "socials" : {
-      "x" : "https://x.com/1capture_com"
+      "x" : "https://x.com/1capture_com",
+      "reddit" : "https://reddit.com/r/1capture"
     }
   },
   "colors" : {
@@ -152,7 +153,7 @@
     "primary" : {
       "type" : "button",
       "label" : "Download",
-      "href" : "https://mintlify.com/docs"
+      "href" : "https://apps.apple.com/app/id6742318274"
     }
   },
   "favicon" : "/favicon.png",
