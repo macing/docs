@@ -7,10 +7,10 @@
   "navigation" : {
     "languages" : [
       {
+        "language" : "en",
         "tabs" : [
           {
             "tab" : "Documents",
-            "icon" : "mail-open",
             "groups" : [
               {
                 "group" : "Quick Start",
@@ -39,19 +39,17 @@
           },
           {
             "tab" : "Changelog",
-            "icon" : "mail-open",
             "pages" : [
               "en/changelog"
             ]
           }
-        ],
-        "language" : "en"
+        ]
       },
       {
+        "language" : "cn",
         "tabs" : [
           {
             "tab" : "帮助文档",
-            "icon" : "mail-open",
             "groups" : [
               {
                 "group" : "快速开始",
@@ -80,19 +78,17 @@
           },
           {
             "tab" : "更新日志",
-            "icon" : "mail-open",
             "pages" : [
               "cn/changelog"
             ]
           }
-        ],
-        "language" : "cn"
+        ]
       },
       {
+        "language" : "zh-Hant",
         "tabs" : [
           {
             "tab" : "幫助文檔",
-            "icon" : "mail-open",
             "groups" : [
               {
                 "group" : "快速入门",
@@ -121,13 +117,284 @@
           },
           {
             "tab" : "更新日誌",
-            "icon" : "mail-open",
             "pages" : [
               "zh-hant/changelog"
             ]
           }
-        ],
-        "language" : "zh-Hant"
+        ]
+      },
+      {
+        "language" : "jp",
+        "tabs" : [
+          {
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "快速开始",
+                "pages" : [
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
+            ]
+          },
+          {
+            "tab" : "更新日志",
+            "pages" : [
+              "cn/changelog"
+            ]
+          }
+        ]
+      },
+      {
+        "language" : "fr",
+        "tabs" : [
+          {
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "快速开始",
+                "pages" : [
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
+            ]
+          },
+          {
+            "tab" : "更新日志",
+            "pages" : [
+              "cn/changelog"
+            ]
+          }
+        ]
+      },
+      {
+        "language" : "de",
+        "tabs" : [
+          {
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "快速开始",
+                "pages" : [
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
+            ]
+          },
+          {
+            "tab" : "更新日志",
+            "pages" : [
+              "cn/changelog"
+            ]
+          }
+        ]
+      },
+      {
+        "language" : "es",
+        "tabs" : [
+          {
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "快速开始",
+                "pages" : [
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
+            ]
+          },
+          {
+            "tab" : "更新日志",
+            "pages" : [
+              "cn/changelog"
+            ]
+          }
+        ]
+      },
+      {
+        "language" : "ko",
+        "tabs" : [
+          {
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "快速开始",
+                "pages" : [
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
+            ]
+          },
+          {
+            "tab" : "更新日志",
+            "pages" : [
+              "cn/changelog"
+            ]
+          }
+        ]
+      },
+      {
+        "language" : "it",
+        "tabs" : [
+          {
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "快速开始",
+                "pages" : [
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
+            ]
+          },
+          {
+            "tab" : "更新日志",
+            "pages" : [
+              "cn/changelog"
+            ]
+          }
+        ]
+      },
+      {
+        "language" : "pt",
+        "tabs" : [
+          {
+            "tab" : "帮助文档",
+            "groups" : [
+              {
+                "group" : "快速开始",
+                "pages" : [
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
+                ]
+              },
+              {
+                "group" : "标注工具",
+                "pages" : [
+                  "cn/tools/remark",
+                  "cn/tools/pin-image",
+                  "cn/tools/counter",
+                  "cn/tools/color-picker",
+                  "cn/tools/scrolling-capture",
+                  "cn/tools/background",
+                  "cn/tools/arrow",
+                  "cn/tools/watermark"
+                ]
+              }
+            ]
+          },
+          {
+            "tab" : "更新日志",
+            "pages" : [
+              "cn/changelog"
+            ]
+          }
+        ]
       }
     ]
   },
