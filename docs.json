@@ -10,6 +10,7 @@
         "tabs" : [
           {
             "tab" : "Documents",
+            "icon" : "mail-open",
             "groups" : [
               {
                 "group" : "Quick Start",
@@ -38,6 +39,7 @@
           },
           {
             "tab" : "Changelog",
+            "icon" : "mail-open",
             "pages" : [
               "en/changelog"
             ]
@@ -49,6 +51,7 @@
         "tabs" : [
           {
             "tab" : "帮助文档",
+            "icon" : "mail-open",
             "groups" : [
               {
                 "group" : "快速开始",
@@ -77,6 +80,7 @@
           },
           {
             "tab" : "更新日志",
+            "icon" : "mail-open",
             "pages" : [
               "cn/changelog"
             ]
@@ -88,6 +92,7 @@
         "tabs" : [
           {
             "tab" : "幫助文檔",
+            "icon" : "mail-open",
             "groups" : [
               {
                 "group" : "快速入门",
@@ -116,6 +121,7 @@
           },
           {
             "tab" : "更新日誌",
+            "icon" : "mail-open",
             "pages" : [
               "zh-hant/changelog"
             ]
