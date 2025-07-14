@@ -14,11 +14,11 @@
               {
                 "group" : "Quick Start",
                 "pages" : [
-                  "en/basic/start",
-                  "en/basic/advanced-tips",
-                  "en/basic/local-images",
-                  "en/basic/pro-features",
-                  "en/basic/support"
+                  "en/start",
+                  "en/advanced-tips",
+                  "en/local-images",
+                  "en/pro-features",
+                  "en/support"
                 ]
               },
               {
@@ -48,16 +48,16 @@
       {
         "tabs" : [
           {
-            "tab" : "帮助文档",
+            "tab" : "幫助文檔",
             "groups" : [
               {
                 "group" : "快速开始",
                 "pages" : [
-                  "cn/basic/start",
-                  "cn/basic/advanced-tips",
-                  "cn/basic/local-images",
-                  "cn/basic/pro-features",
-                  "cn/basic/support"
+                  "cn/start",
+                  "cn/advanced-tips",
+                  "cn/local-images",
+                  "cn/pro-features",
+                  "cn/support"
                 ]
               },
               {
@@ -90,26 +90,26 @@
             "tab" : "文档繁体",
             "groups" : [
               {
-                "group" : "基本幫助",
+                "group" : "快速入门",
                 "pages" : [
-                  "tw/basic/start",
-                  "tw/basic/advanced-tips",
-                  "tw/basic/local-images",
-                  "tw/basic/pro-features",
-                  "tw/basic/support"
+                  "zh-hant/start",
+                  "zh-hant/advanced-tips",
+                  "zh-hant/local-images",
+                  "zh-hant/pro-features",
+                  "zh-hant/support"
                 ]
               },
               {
                 "group" : "標注工具",
                 "pages" : [
-                  "tw/tools/remark",
-                  "tw/tools/pin-image",
-                  "tw/tools/counter",
-                  "tw/tools/color-picker",
-                  "tw/tools/scrolling-capture",
-                  "tw/tools/background",
-                  "tw/tools/arrow",
-                  "tw/tools/watermark"
+                  "zh-hant/tools/remark",
+                  "zh-hant/tools/pin-image",
+                  "zh-hant/tools/counter",
+                  "zh-hant/tools/color-picker",
+                  "zh-hant/tools/scrolling-capture",
+                  "zh-hant/tools/background",
+                  "zh-hant/tools/arrow",
+                  "zh-hant/tools/watermark"
                 ]
               }
             ]
@@ -117,7 +117,7 @@
           {
             "tab" : "更新繁体",
             "pages" : [
-              "tw/changelog"
+              "zh-hant/changelog"
             ]
           }
         ],
