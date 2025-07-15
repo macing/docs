@@ -1,9 +1,37 @@
 {
+  "name" : "1Capture",
   "description" : "1Capture SEO",
   "theme" : "mint",
   "icons" : {
     "library" : "lucide"
   },
+  "colors" : {
+    "primary" : "#007AFF",
+    "light" : "#378FEE",
+    "dark" : "#0164D0"
+  },
+  "background" : {
+    "decoration" : "grid"
+  },
+  "logo" : {
+    "light" : "/logo_light.png",
+    "dark" : "/logo_dark.png"
+  },
+  "navbar" : {
+    "links" : [
+      {
+        "label" : "Support",
+        "href" : "mailto:support@1capture.com"
+      }
+    ],
+    "primary" : {
+      "type" : "button",
+      "label" : "Download",
+      "href" : "https://apps.apple.com/app/id6742318274"
+    }
+  },
+  "favicon" : "/favicon.png",
+  "$schema" : "https://mintlify.com/docs.json",
   "navigation" : {
     "languages" : [
       {
@@ -403,33 +431,5 @@
       "x" : "https://x.com/1capture_com",
       "reddit" : "https://reddit.com/r/1capture"
     }
-  },
-  "colors" : {
-    "primary" : "#007AFF",
-    "light" : "#378FEE",
-    "dark" : "#0164D0"
-  },
-  "background" : {
-    "decoration" : "grid"
-  },
-  "logo" : {
-    "light" : "/logo_light.png",
-    "dark" : "/logo_dark.png"
-  },
-  "navbar" : {
-    "links" : [
-      {
-        "label" : "Support",
-        "href" : "mailto:support@1capture.com"
-      }
-    ],
-    "primary" : {
-      "type" : "button",
-      "label" : "Download",
-      "href" : "https://apps.apple.com/app/id6742318274"
-    }
-  },
-  "favicon" : "/favicon.png",
-  "$schema" : "https://mintlify.com/docs.json",
-  "name" : "1Capture"
+  }
 }
