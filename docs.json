@@ -36,13 +36,13 @@
     "languages" : [
       {
         "language" : "en",
-        "banner": {
-          "content": "🚀 1Capture v1.6.0 is now live! See [changelog](/en/changelog) for details.",
-          "dismissible": true 
-        },
         "tabs" : [
           {
             "tab" : "Documents",
+            "banner": {
+          "content": "🚀 1Capture v1.6.0 is now live! See [changelog](/en/changelog) for details.",
+          "dismissible": true 
+        },
             "groups" : [
               {
                 "group" : "Quick Start",
