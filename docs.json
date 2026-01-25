@@ -76,8 +76,8 @@
       {
         "language" : "cn",
         "banner": {
-  "content": "**Action required:** Migrate to our new version by January 1. [Migration guide](/migration)",
-  "dismissible": true
+  "content": "🚀 Version 1.6.0 is now live! See our [changelog](/cn/changelog) for details.",
+  "dismissible": true 
 },
         "tabs" : [
           {
