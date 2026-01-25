@@ -75,6 +75,10 @@
       },
       {
         "language" : "cn",
+        "banner": {
+  "content": "**Action required:** Migrate to our new version by January 1. [Migration guide](/migration)",
+  "dismissible": true
+},
         "tabs" : [
           {
             "tab" : "帮助文档",
