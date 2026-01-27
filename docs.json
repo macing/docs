@@ -36,10 +36,6 @@
     "languages" : [
       {
         "language" : "en",
-        "banner": {
-          "content": "🚀 1Capture v1.6.0 is now live! See [changelog](/en/changelog) for details.",
-          "dismissible": true 
-        },
         "tabs" : [
           {
             "tab" : "Documents",
@@ -79,10 +75,6 @@
       },
       {
         "language" : "cn",
-        "banner": {
-          "content": "🚀 1Capture v1.6.0 已发布！请查看 [更新日志](/cn/changelog) 了解更多信息。",
-          "dismissible": true 
-        },
         "tabs" : [
           {
             "tab" : "帮助文档",
@@ -122,10 +114,6 @@
       },
       {
         "language" : "zh-Hant",
-        "banner": {
-          "content": "🚀 1Capture v1.6.0 已發布！請查看 [更新紀錄](/zh-hant/changelog) 了解更多資訊。",
-          "dismissible": true 
-        },
         "tabs" : [
           {
             "tab" : "幫助文檔",
